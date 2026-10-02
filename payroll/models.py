@@ -68,7 +68,7 @@ class Secretary(Employee):
             "hours": self._hours
         })
         return data
-      class Manager(Employee):
+class Manager(Employee):
     def __init__(self, person, emp_id, years_of_service, department,
                  salary):
         super().__init__(person, emp_id, years_of_service)
