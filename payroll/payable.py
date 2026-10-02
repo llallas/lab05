@@ -1,4 +1,4 @@
-# Author: 
+# Author: Rithik 
 # Date: 2026-10-01
 # Name: payable.py
 # Description: Defines the abstract Payable interface enforcing calculation and serialization contracts.
