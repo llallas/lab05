@@ -1,7 +1,8 @@
 # Author: Elias Arriaga
 # Date: 10/1/2026
 # File: invoice.py
-# Description:
+# Description: Store invoice details, calculate payments,
+# and track the number of invoices.
 
 from payroll.payable import Payable
 
