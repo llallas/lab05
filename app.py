@@ -1,4 +1,4 @@
-# Author: 
+# Author: Rithik
 # Date: 2026-10-01
 # Name: app.py
 # Description: Main Flask application entry point serving the payroll system interface.
