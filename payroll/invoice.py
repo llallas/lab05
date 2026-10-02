@@ -28,8 +28,7 @@ class Invoice(Payable):
             "part_name": self.part_name,
             "price": self.price,
             "quantity": self.quantity,
-            "payment_amount": self.calculate_payment(),
-        }
+            "payment": self.calculate_payment(),        }
 
     @classmethod
     def get_invoice_count(cls) -> int:
